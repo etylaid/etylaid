@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etylaid&label=Profile%20views&color=0e75b6&style=flat" alt="etylaid" /> </p>
 
-- 👑 Owner & Lead Developer **7 Development**
+- 👑 Owner & Lead Developer [**Kitsune Studios**](https://discord.gg/cPeVDMAjeA)
+
+- ⭐ ~~BOD~~ Developer [**RankPro**](https://discord.gg/QQUNEndsC5)
 
 - 🌱 I’m currently learning **Frontend development, C++**
-
-- ⭐ ~~BOD~~ Developer [RankPro](https://discord.gg/QQUNEndsC5)
 
 - 📫 How to reach me **DM `@etylaid` on Discord**
 
