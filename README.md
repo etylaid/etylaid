@@ -1,5 +1,5 @@
 # I'm @etylaid!
-### Independent back-end developer
+### Italian back-end developer
 #
 ___
 ### 👑 Projects
