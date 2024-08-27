@@ -1,5 +1,5 @@
 # I'm @etylaid!
-##### Independent back-end developer
+### Independent back-end developer
 #
 ___
 ### 👑 Projects
