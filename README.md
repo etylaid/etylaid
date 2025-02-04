@@ -8,16 +8,13 @@
   <a href="https://discord.com/users/841764040422588446" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://t.me/saelixdev" target="_blank">
+  <a href="https://t.me/kryvex" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:etylaid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8A2EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+ety;...or+etylaid;However+you+want%2C+doesnt+matter;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8A2EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Kryvex;...or+KryvexFPS;However+you+want%2C+doesnt+matter;Welcome+to+my+profile+%3A)" alt="Typing SVG" /></a>  
 </h1>
 
 ###
@@ -63,39 +60,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
-
-###
-
-<!-- old readme :^)
-# I'm @etylaid!
-### Italian back-end developer
-#
-___
-### 👑 Projects
-#### Owner & Lead Developer Kitsune Studios
-#### Co-founder & Retired developer at RankPro
-##### How to reach me: 
-- [@etylaid](https://discord.com/users/841764040422588446) on Discord,
-- etylaid@gmail.com
-#
-___
-### 💎 Languages and Tools
-- Linux (arch user btw)
-- Node.js
-- JavaScript
-- TypeScript
-- SH
-- C#
-- Microsoft .NET
-- C++ (learning)
-- Express
-- GIT
-- MariaDB
-- MongoDB
-- MySQL
-- NGINX
-- PHP
-- Python
--->
